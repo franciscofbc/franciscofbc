@@ -21,6 +21,8 @@ fell free to contact me on [likedin](https://www.linkedin.com/in/francisco-berti
 
 <a href="https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+<a href = "mailto:fbc9911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 <!--
 **franciscofbc/franciscofbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
