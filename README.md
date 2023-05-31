@@ -9,7 +9,7 @@ currently i have been studying skills related to front end dev like **ReactJS, S
 
 fell free to contact me <!--on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)-->
 
-***currently i'm in a carrear transition***
+*currently i'm in a carrear transition*
 
 ### languages and tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
