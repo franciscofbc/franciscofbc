@@ -7,7 +7,7 @@ i'm graduated in Computer Science at Unijui and at the moment i'm taking a cours
 
 currently i have been studying skills related to front end dev like **ReactJS, Styled Components and TypeScript**
 
-fell free to contact me <!--on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)--!>
+fell free to contact me <!--on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)-->
 
 ### languages and tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
@@ -20,7 +20,6 @@ fell free to contact me <!--on [likedin](https://www.linkedin.com/in/francisco-b
 ### my social networks
 
 <a href="https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
 <a href = "mailto:fbc9911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--
