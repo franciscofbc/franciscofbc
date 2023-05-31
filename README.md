@@ -1,13 +1,10 @@
 ### hi there 👋
-my name is **Francisco**... 
+my name is **Francisco**... welcome to my github profile
 
-welcome to my github profile
-
-i'm from and living in Rio Grande do Sul
-
-i'm searching for my first job as a dev
+i'm from and living in Rio Grande do Sul and i'm searching for my first job as a dev
 
 i'm graduated in Computer Science at Unijui and at the moment i'm taking a course on EBAC to become a full stack dev
+
 currently i have been studying skills related to front end dev like **ReactJS, Styled Components and TypeScript**
 
 fell free to contact me on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)
@@ -22,7 +19,7 @@ fell free to contact me on [likedin](https://www.linkedin.com/in/francisco-berti
  
 ### my social networks
 
-
+<a href="https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <!--
 **franciscofbc/franciscofbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
