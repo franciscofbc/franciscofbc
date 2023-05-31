@@ -1,4 +1,17 @@
 ### Hi there 👋
+welcome to my github profile
+
+my name is Francisco, i'm from and living in Rio Grande do Sul
+i'm searching for my first job as a dev
+
+i'm graduated in Computer Science at Unijui and at the moment i'm taking a course on EBAC to become a full stack dev
+i have been studying skills related to front end dev like ReactJS, Styled Components and TypeScript
+
+skills
+
+my social networks
+  linkedin
+
 
 <!--
 **franciscofbc/franciscofbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
