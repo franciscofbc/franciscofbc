@@ -9,8 +9,7 @@ i have been studying skills related to front end dev like ReactJS, Styled Compon
 
 skills
 
-my social networks
-  linkedin
+fell free to contact me on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz/)
 
 
 <!--
