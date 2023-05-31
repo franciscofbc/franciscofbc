@@ -5,7 +5,7 @@ i'm from and living in Rio Grande do Sul and i'm searching for my first job as a
 
 i'm graduated in Computer Science at Unijui and at the moment i'm taking a course on EBAC to become a full stack dev
 
-currently i have been studying skills related to front end dev like **ReactJS, Styled Components and TypeScript**
+currently i have been studying skills related to front end like **ReactJS, Styled Components and TypeScript**
 
 fell free to contact me <!--on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)-->
 
