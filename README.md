@@ -7,7 +7,7 @@ i'm graduated in Computer Science at Unijui and at the moment i'm taking a cours
 
 currently i have been studying skills related to front end dev like **ReactJS, Styled Components and TypeScript**
 
-fell free to contact me //on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)
+fell free to contact me <!--on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)--!>
 
 ### languages and tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
