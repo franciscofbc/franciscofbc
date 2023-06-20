@@ -9,7 +9,9 @@ currently i have been studying skills related to front end like **ReactJS, Style
 
 fell free to contact me <!--on [likedin](https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/)-->
 
-some of my projcts you can find here: https://my-personal-portfolio-fcc.vercel.app/#projects
+some of my projcts you can find here: <a href="https://www.linkedin.com/in/francisco-berti-da-cruz-b846975a/" target="_blank">https://my-personal-portfolio-fcc.vercel.app/</a>
+
+
 
 *currently i'm in a carrear transition*
 
