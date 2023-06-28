@@ -8,7 +8,8 @@ I'm graduated in Computer Science at Unijui and at the moment I'm taking a cours
 
 Some of my projects you can find here: https://my-personal-portfolio-fcc.vercel.app/
 
-Fell free to contact me 
+Fell free to contact me
+
 <a href="https://www.linkedin.com/in/franciscofbc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:fbc9911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
@@ -20,10 +21,7 @@ Fell free to contact me
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
  
-### My contacts
 
-<a href="https://www.linkedin.com/in/franciscofbc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href = "mailto:fbc9911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 <!--
 **franciscofbc/franciscofbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
