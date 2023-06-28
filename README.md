@@ -8,7 +8,7 @@ I'm graduated in Computer Science at Unijui and at the moment I'm taking a cours
 
 Some of my projects you can find here: https://my-personal-portfolio-fcc.vercel.app/
 
-Fell free to contact me
+Fell free to contact me 📫
 
 <a href="https://www.linkedin.com/in/franciscofbc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:fbc9911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
