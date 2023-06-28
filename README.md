@@ -1,13 +1,12 @@
 ### Hi there 👋
-My name is **Francisco**... Welcome to my github profile
-
+My name is **Francisco**... Welcome to my github profile 😄 
 I'm from and living in Rio Grande do Sul and I'm searching for my first job as a dev
 
-- 🌱 I'm graduated in Computer Science at Unijui and at the moment I'm taking a course on EBAC to become a full stack dev (learning skills related to back end like **python and SQL**)
-
-- 📫 Fell free to contact me by [Email](fbc9911@gmail.com) or [LinkedIn](https://www.linkedin.com/in/franciscofbc/) 
+🌱 I'm graduated in Computer Science at Unijui and at the moment I'm taking a course on EBAC to become a full stack dev (learning skills related to back end like **python and SQL**)
 
 Some of my projects you can find here: https://my-personal-portfolio-fcc.vercel.app/
+
+📫 Fell free to contact me 
 
 ### Some languages and tools that I know
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
