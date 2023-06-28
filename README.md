@@ -7,7 +7,7 @@ My name is **Francisco**... Welcome to my github profile 😄
 
 I'm from and living in Rio Grande do Sul and I'm searching for my first job as a dev
 
-I'm graduated in Computer Science at Unijui and at the moment I'm taking a course on EBAC to become a full stack dev (learning skills related to back end like **python and SQL**)
+I'm graduated in Computer Science at Unijui and at the moment I'm taking a course on EBAC to become a full stack dev (currently I'm learning skills related to back end like **python and SQL**)
 
 Some of my projects you can find here: https://my-personal-portfolio-fcc.vercel.app/
 
