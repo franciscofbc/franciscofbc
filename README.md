@@ -9,7 +9,7 @@ I'm from and living in Rio Grande do Sul <!--and I'm searching for my first job 
 
 I'm graduated in Computer Science at Unijui and at the moment I'm taking a course on EBAC to become a full stack dev (currently I'm learning skills related to front end)
 
-Some of my projects you can find [here](https://my-personal-portfolio-fcc.vercel.app/)
+Some of my projects you can find [here](https://fbc-personalportfolio.netlify.app/)
 
 Fell free to contact me 
 
