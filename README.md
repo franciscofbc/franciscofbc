@@ -1,17 +1,17 @@
 <!--https://github.com/devicons/devicon/tree/master/icons-->
 <!--https://worldvectorlogo.com/random-logos-->
 
-<!--**Hi there 👋**
+<!--**Hi there 👋**-->
 
-My name is **Francisco**... Welcome to my github profile 😄 
+<!--My name is **Francisco**... Welcome to my github profile 😄 -->
 
-I'm from and living in Rio Grande do Sul <!--and I'm searching for my first job as a dev-->
+<!--I'm from and living in Rio Grande do Sul <!--and I'm searching for my first job as a dev-->
 
-I'm graduated in Computer Science at Unijui and at the moment I'm taking a course on EBAC and Udemy to become a full stack dev (currently I'm learning skills related to back-end)
+<!--I'm graduated in Computer Science at Unijui and at the moment I'm taking a course on EBAC and Udemy to become a full stack dev (currently I'm learning skills related to back-end)-->
 
-Some of my projects you can find [here](https://fbc-personalportfolio.netlify.app/)
+<!--Some of my projects you can find [here](https://fbc-personalportfolio.netlify.app/)-->
 
-Fell free to contact me -->
+<!--Fell free to contact me -->
 
 <a href="https://www.linkedin.com/in/franciscofbc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "mailto:fbc9911@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
