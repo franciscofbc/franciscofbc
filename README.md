@@ -2,9 +2,7 @@
 
 Meu nome é **Francisco**... Bem-vindo ao meu perfil do github 😄 
 
-Sou gaúcho e atualmente vivo no RS
-
-Sou formado em Ciência da Computação pela UNIJUI e atualmente estou fazendo um curso na EBAC e outro na Udemy para me tornar um desenvolvedor full stack (no momento estou estudando habilidades relacionadas ao back-end)
+Sou gaúcho, formado em Ciência da Computação pela UNIJUI e atualmente estou fazendo um curso na EBAC e outro na Udemy para me tornar um desenvolvedor full stack (no momento estou estudando habilidades relacionadas ao back-end)
 
 Alguns dos meus projetos você pode encontrar [aqui](https://fbc-personalportfolio.netlify.app/)
 
